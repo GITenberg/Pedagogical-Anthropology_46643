@@ -1,9 +1,8 @@
 _repo: Pedagogical-Anthropology_46643
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46643/46643-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46643-h/images/cover.jpg
 creator:
   author:
     agent_name: Montessori, Maria
@@ -15,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Maria_Montessori
     - http://it.wikipedia.org/wiki/Maria_Montessori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46643#Pedagogical-Anthropology
 gutenberg_issued: '2014-08-21'
 gutenberg_type: Text
 identifiers:
